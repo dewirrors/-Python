@@ -1,0 +1,3 @@
+Hi, Python!
+Grandmother comes to the doctor,
+and the doctor is also a grandmother.
